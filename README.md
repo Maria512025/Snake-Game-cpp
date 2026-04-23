@@ -2,7 +2,7 @@
 
 A console-based Snake Game built in **C++** demonstrating core programming concepts including Object-Oriented Programming and Linked List data structures.
 
-## 🚀 Features
+## Features
 
 - **Linked List** for dynamic snake body management
 - **OOP Design** — `Snake`, `Food`, `Game` classes with clear responsibilities
@@ -12,20 +12,20 @@ A console-based Snake Game built in **C++** demonstrating core programming conce
 - **Restart system** without restarting the program
 - **WASD + Arrow Key** controls
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 - Language: **C++**
 - Platform: **Windows (Console)**
 - Libraries: `<windows.h>`, `<conio.h>` (standard Windows headers)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 snake_game/
 └── snake.cpp      # Full game source code
 ```
 
-## 🔧 How to Compile & Run
+##  How to Compile & Run
 
 ### Using g++ (MinGW):
 ```bash
@@ -36,7 +36,7 @@ g++ snake.cpp -o snake.exe
 ### Using Dev-C++ / Code::Blocks:
 Open `snake.cpp` and hit **Run**.
 
-## 🎮 Controls
+##  Controls
 
 | Key       | Action     |
 |-----------|------------|
@@ -47,7 +47,7 @@ Open `snake.cpp` and hit **Run**.
 | `Q`       | Quit       |
 | `R`       | Restart    |
 
-## 📐 OOP Design
+##  OOP Design
 
 | Class   | Responsibility                              |
 |---------|---------------------------------------------|
@@ -56,7 +56,7 @@ Open `snake.cpp` and hit **Run**.
 | `Food`  | Spawns and draws food randomly              |
 | `Game`  | Main game loop, input, HUD, score, levels   |
 
-## 📊 Concepts Demonstrated
+##  Concepts Demonstrated
 
 - ✅ Linked List (dynamic snake body)
 - ✅ OOP (classes, encapsulation, destructors)
