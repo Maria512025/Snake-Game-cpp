@@ -65,5 +65,4 @@ Open `snake.cpp` and hit **Run**.
 - ✅ Memory management (`new` / `delete`)
 - ✅ Enums for clean state management
 
----
 *Built as a C++ project demonstrating data structures and OOP principles.*
